@@ -2,7 +2,6 @@
 - 👀 I’m interested in web development, specifically HTML, CSS, JavaScript, React, and Node.js.
 - 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on React frontend projects.
-- 📫 How to reach me: [Your preferred contact method]
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Debugging my life one line of code at a time!
 

@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Sounava, a student and a self taught web developer. I'm always interested in learning new things.<br><br>Currently working on my exams :)<br><br>🌱 I’m currently learning Flutter with Dart<br><br>❓ Ask me anything about react frontend (i will always try to workout a solution)<br><br>⚡ Fun fact: Im debugging my life one line of code at a time.<br><br>
+I'm Sounava, a student and a self taught web developer. I'm always interested in learning new things.<br><br>Currently working on my exams :)<br><br>🌱 I’m currently learning React Native<br><br>❓ Ask me anything about react frontend (i will always try to workout a solution)<br><br>⚡ Fun fact: Im debugging my life one line of code at a time.<br><br>
 
 
 ## 🌐 Socials:

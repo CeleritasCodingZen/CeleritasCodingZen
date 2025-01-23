@@ -3,6 +3,8 @@ I'm Sounava, a student and a self taught web developer. I'm always interested in
 
 
 ## 🌐 Socials:
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="sounava-mandal-linked-in" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sounava-mandal-linked-in?trk=profile-badge">Sounava Mandal</a></div>
+              
 
 
 

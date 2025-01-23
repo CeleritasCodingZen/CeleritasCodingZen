@@ -3,7 +3,14 @@ I'm Sounava, a student and a self taught web developer. I'm always interested in
 
 
 ## 🌐 Socials:
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div>
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+  <div class="LI-profile-badge" data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="YOUR-LINKEDIN-USERNAME">
+    <a class="LI-simple-link" href="https://in.linkedin.com/in/YOUR-LINKEDIN-USERNAME?trk=profile-badge">Your Name</a>
+  </div>
+</div>
+
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
